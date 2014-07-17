@@ -82,21 +82,43 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend",
       "keywords": [
         "HTML",
         "CSS",
         "Javascript",
         "LESS",
         "SCSS",
+        "Bower"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
         "Grunt",
         "Node",
         "npm",
-        "Bower",
+        "C#",
+        "C++",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
         "Git",
         "Mercurial",
-        "SVN"
+        "SVN",
+        "Sublime Text",
+        "Chrome Dev Tools",
+        "Visual Studio"
+      ]
+    },
+    {
+      "name": "Third Party Systems",
+      "keywords": [
+        "Microsoft Dynamics CRM",
+        "Salesforce"
       ]
     }
   ],
